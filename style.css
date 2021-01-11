@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color:rgb(80, 13, 1)
+    
+
+}
+h3{
+    text-align: center;
+}
+ 
+ tr{
+    background-color: white;
+    align: center;
+
+ }
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+body{
+    background-image: url(sushi.jpeg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+
+}
+.hline{ 
+    width:100% ;height: 1px;
+}
+ h5{
+    text-align: center;
+
+ }
